@@ -1,9 +1,10 @@
 <h1 align>Sonatype Nexus Repository Docker: sonatype/nexus3 🖐</h1>
 <h3>🟠Docker composition for Nexus 3 Repository Manager by Sonatype</h3>
 <h3>🟠Video about this project https://youtu.be/6WjwrZknYVk 👇</h3>
+
+<img src="README images/0.png" alt="Logo">
 <img src="README images/1.png" alt="Logo">
 <img src="README images/2.png" alt="Logo">
-<img src="README images/3.png" alt="Logo">
 
 ## Running
 
