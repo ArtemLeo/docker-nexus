@@ -1,7 +1,8 @@
 # Sonatype Nexus Repository Docker: sonatype/nexus3
+
 Docker composition for Nexus 3 Repository Manager by Sonatype.
 
-Video about this project https://youtu.be/6WjwrZknYVk (on Russian language)
+Video about this project https://youtu.be/6WjwrZknYVk
 
 ## Running
 
