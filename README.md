@@ -1,41 +1,7 @@
-<!--
-
-  Copyright (c) 2016-present Sonatype, Inc.
-
-  Licensed under the Apache License, Version 2.0 (the "License");
-  you may not use this file except in compliance with the License.
-  You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-  Unless required by applicable law or agreed to in writing, software
-  distributed under the License is distributed on an "AS IS" BASIS,
-  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-  See the License for the specific language governing permissions and
-  limitations under the License.
-
--->
-
 # Sonatype Nexus Repository Docker: sonatype/nexus3
+Docker composition for Nexus 3 Repository Manager by Sonatype.
 
-[![Join the chat at https://gitter.im/sonatype/nexus-developers](https://badges.gitter.im/sonatype/nexus-developers.svg)](https://gitter.im/sonatype/nexus-developers?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-A Dockerfile for Sonatype Nexus Repository 3, starting with 3.18 the image is based on the [Red Hat Universal Base Image](https://www.redhat.com/en/blog/introducing-red-hat-universal-base-image) while earlier versions used CentOS.
-
-* [Contribution Guidlines](#contribution-guidelines)
-* [Running](#running)
-* [Building the Sonatype Nexus Repository image](#building-the-nexus-repository-manager-image)
-* [Chef Solo for Runtime and Application](#chef-solo-for-runtime-and-application)
-* [Testing the Dockerfile](#testing-the-dockerfile)
-* [Red Hat Certified Image](#red-hat-certified-image)
-* [Notes](#notes)
-  * [Persistent Data](#persistent-data)
-* [Getting Help](#getting-help)
-
-## Contribution Guidelines
-
-Go read [our contribution guidelines](https://github.com/sonatype/docker-nexus3/blob/main/.github/CONTRIBUTING.md) to get a bit more familiar with how
-we would like things to flow.
+Video about this project https://youtu.be/6WjwrZknYVk (on Russian language)
 
 ## Running
 
